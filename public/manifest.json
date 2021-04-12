@@ -1,0 +1,8 @@
+{
+  "short_name": "Lemonadestand - Jannick",
+  "name": "React Redux Lemonadestand assignment - Jannick",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
